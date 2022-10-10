@@ -1,4 +1,4 @@
-<a href="https://user-images.githubusercontent.com/5125006/194807007-a79f1e39-065c-4ba3-9b9a-555433d7948d.png" target="new"><img src="https://user-images.githubusercontent.com/5125006/194807007-a79f1e39-065c-4ba3-9b9a-555433d7948d.png" height="400" display="block" margin="auto" /></a>
+<a href="https://user-images.githubusercontent.com/5125006/194807007-a79f1e39-065c-4ba3-9b9a-555433d7948d.png" target="new"><img src="https://user-images.githubusercontent.com/5125006/194807007-a79f1e39-065c-4ba3-9b9a-555433d7948d.png" height="400" style="display:block; margin:auto;"  /></a>
 
 # Using Adventure Works Sample database to migrate a SQL Database to Cosmos DB using Azure Data Factory
 
