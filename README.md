@@ -2,7 +2,7 @@
 
 # Using Adventure Works Sample database to migrate a SQL Database to Cosmos DB using Azure Data Factory
 
-This repository provides all resources related to a demo showing how to transform a normalized dataset, stored in a Azure SQL relational database, and denormalize the data to be stored in a NoSQL Database - Cosmos DB.
+This repository describes a demo shown in a presentation for the [PASS Data Community Summit 2022](https://reg.passdatacommunitysummit.com/flow/redgate/summit2022/attendeeportal/page/catalog/session/1647878637692001ejzC), showing how to transform a normalized dataset, stored in an Azure SQL relational database, denormalize the data and store it in a NoSQL Database - Cosmos DB. This demo includes additional steps showing how you can extend your data solution to include enterprise-grade search capabilities to your apps and create visualizations and enable data analysis using **Power BI**.
 
 Steps to use this demo:
 
